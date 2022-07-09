@@ -4,8 +4,9 @@
 
 <h1 align="center">Hi 👋, I'm Gourab Konar</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
-<img align="center" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=grbknr1996&label=Profile%20views&color=0e75b6&style=flat" alt="grbknr1996" /> </p>
+<img float="center" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grbknr1996" alt="grbknr1996" /></a> </p>
 
